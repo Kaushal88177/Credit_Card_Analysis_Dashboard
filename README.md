@@ -50,3 +50,7 @@ This interactive Power BI dashboard provides comprehensive insights into credit 
 1. Open the Power BI file (credit_card_dashboard.pbix) and explore the dashboard.
 2. Use filters to narrow down data and gain specific insights.
 3. Hover over visualizations for detailed tooltips.
+# CONTACT
+- Name:  Kaushal Verma
+- Email: kaushalverma181@gmail.com
+- LinkedIN: http://linkedin.com/in/kaushal-verma-0059bb277
